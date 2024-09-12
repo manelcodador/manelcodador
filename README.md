@@ -4,7 +4,7 @@
 - 💞️ Eu busco colaborar com as tecnologias.
 - 📫 Como me contactar? Email: manoel.rocha@escola.pr.gov.br
   
-<img src="https://media1.tenor.com/m/P5B6lbpzwuQAAAAC/yh.gif" width="50%">
+<img src="https://media1.tenor.com/m/P5B6lbpzwuQAAAAC/yh.gif" width="20%">
 
 
 <!---
